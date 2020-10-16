@@ -1,3 +1,5 @@
+//Freecodecamp
+
 // We have an array of objects representing different people in our contacts lists.
 
 // A lookUpProfile function that takes name and a property (prop) as arguments has been pre-written for you.
@@ -49,3 +51,5 @@ function lookUpProfile(name, prop) {
     }
     return "No such contact";
   }
+
+  console.log(lookUpProfile(Sherlock, likes))
